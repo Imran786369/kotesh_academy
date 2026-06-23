@@ -25,6 +25,6 @@ match i:
     case 12:
           print("December")
     case _:
-          print('Invalid month')
+          print('Wrong entry')
     
     
