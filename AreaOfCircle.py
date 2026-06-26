@@ -4,4 +4,4 @@ def Area_Of_Circle(r) :
     return area
 radius = int(input("Enter radius of the circle: "))
 areaOfCircle= Area_Of_Circle(radius)
-print("Area of Circle:", areaOfCircle)
+print("Area of Circle: ", areaOfCircle)
